@@ -10,4 +10,4 @@ function sobre(params) {
         </div>)
 }
 
-export default Home
+export default sobre
